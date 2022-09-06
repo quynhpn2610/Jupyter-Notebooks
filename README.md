@@ -1,0 +1,1 @@
+This notebook includes analysis of URLs data and Covid-19 data for my Data Acquisition class using Jupyter Notebook and Pandas. For a complete web view, please visit https://quynhnguyen-url-covid19analysis.netlify.app/
